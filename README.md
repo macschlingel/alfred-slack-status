@@ -2,6 +2,11 @@
 
 **NOTE:** For this to work you need the Powerpack Licence as we are going to use the **workflow** feature.
 
+#### Create a Slack App
+
+1. Go to [https://api.slack.com/apps](https://api.slack.com/apps) and create a new Slack App. ![Monosnap Slack API: Applications | Slack - Vivaldi 2022-06-09 11-38-51](https://user-images.githubusercontent.com/634734/172838511-bf3c00f7-fee5-4d5e-919e-74abebac1c0c.png)
+
+
 #### How to install and use it?
 
 1. Download the attached file and double click to install it
