@@ -5,7 +5,7 @@
 #### How to install and use it?
 
 1. Download the attached file and double click to install it
-2. Open Alfred preferences -> Workflows -> Click on the "Slack status" workflow -> Click on the second icon in the right corner -> In the Workflow Environment Variables box enter your token (which you can find [here](https://api.slack.com/custom-integrations/legacy-tokens)) -> Save and close Alfred
+2. Open Alfred preferences -> Workflows -> Click on the "Slack status" workflow -> Click on the second icon in the right corner -> In the Workflow Environment Variables box enter your User OAuth Token for the App you created beforehand (which you can find in the OAuth & Permissions section of your Slack App config -> Save and close Alfred
 3. Run search
 4. Type in "s" keyword
 5. You will see 4 default statuses (Available, Remote, Meeting, Vacationing), choose one or enter your custom status by first entering the emoji (without colons) followed by the text (separated with space) (e.g. poop What a lovely day)
